@@ -1,0 +1,15 @@
+{
+  "name": "nextjs-app-router",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gconf": "git config --local user.name \"Kauan Lima\" && git config --local user.email \"kauanslimads@gmail.com\"",
+    "pnpmi": "npm install -g pnpm",
+    "all": "npm run gconf && npm run pnpmi"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
